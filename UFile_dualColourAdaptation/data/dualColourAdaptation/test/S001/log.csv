@@ -1,0 +1,15 @@
+timestamp,log_type,message
+0.02,Warning,"A Canvas named ""[UXF_UI]"" with a render mode of ScreenSpaceOverlay is being used while VR is also enabled. This Canvas will continue to incur a rendering cost but will not be visible while in VR. Is this intentional?"
+11.07328,Log,Loaded: D:\shanaa\repos\unity-dualColourAdaptation\UFile_dualColourAdaptation\data\dual_participant_list.csv
+14.77903,Log,Updating: D:\shanaa\repos\unity-dualColourAdaptation\UFile_dualColourAdaptation\data\dual_participant_list.csv
+15.81221,Warning,Warning: Session already exists! Continuing will overwrite
+63.2222,Log,setting up rotation angle list
+63.2222,Log,switched at trial 13
+86.84381,Log,switched at trial 16
+102.2441,Log,switched at trial 19
+114.5219,Log,switched at trial 22
+152.0112,Log,setting up rotation angle list
+152.0112,Log,switched at trial 28
+163.5669,Log,switched at trial 31
+178.3451,Log,switched at trial 34
+242.2902,Log,switched at trial 37

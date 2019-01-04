@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class TargetHolderController : MonoBehaviour {
 
-    public GameObject targetPrefab;
+    public GameObject targetPrefab;                 //prefab of the target to be instantiated
+    public ExampleController exampleController;     //the experiment controller
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		
 	}
 
